@@ -7,11 +7,11 @@
 🎥YouTube视频地址：https://youtu.be/QZVFxYgVdIE
 
 🎬视频内容概览：
--AI大模型生成式任务设计限制其与外部系统交互能力
--Anthropic于2024年11月发布的MCP协议旨在标准化大语言模型（LLM）与外部数据源和工具的连接方式
--MCP架构：MCP 客户端（AI 应用）、MCP 服务器（工具连接器）和 MCP 协议（通信层）
--MCP快速集成框架Composio，核心功能包括：250+丰富工具集成、多框架支持、托管身份验证管理、自动化工作流与触发器
--Step-by-Step示例：Composio + CrewAI + Gradio实现MCP AI Agent
+-AI大模型生成式任务设计限制其与外部系统交互能力<br>
+-Anthropic于2024年11月发布的MCP协议旨在标准化大语言模型（LLM）与外部数据源和工具的连接方式<br>
+-MCP架构：MCP 客户端（AI 应用）、MCP 服务器（工具连接器）和 MCP 协议（通信层）<br>
+-MCP快速集成框架Composio，核心功能包括：250+丰富工具集成、多框架支持、托管身份验证管理、自动化工作流与触发器<br>
+-Step-by-Step示例：Composio + CrewAI + Gradio实现MCP AI Agent<br>
 
 
 ## 启动步骤
