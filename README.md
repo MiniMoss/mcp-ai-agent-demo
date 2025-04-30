@@ -1,10 +1,12 @@
 # MCP AI Agent Demo
 
-基于 Gradio + CrewAI + Composio + Groq API 快速搭建的 Gmail 智能处理平台。
+YouTube视频：https://youtu.be/QZVFxYgVdIE
+
+基于 Gradio + CrewAI + Composio + Groq API 快速搭建的 Gmail 智能处理平台示例
 
 ## 启动步骤
 
-1. 复制 `.env.example` 为 `.env` 并填写你的 API Key。
+1. 在`.env` 中填写你的 API Key。
 2. 运行:
 
 ```bash
