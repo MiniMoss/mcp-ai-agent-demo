@@ -1,6 +1,6 @@
 # MCP AI Agent Demo
 
-基于 Gradio + CrewAI + Composio + Groq API 快速搭建的 Gmail 智能处理平台示例
+基于 Gradio + CrewAI + Composio + Groq API 快速搭建的 Gmail发送 & GitHub Repo Star 智能A I Agent示例
 
 ## 【🔌AI大模型的标准化USB-C接口：MCP--模型上下文协议】解决大模型外部交互短板  | MCP框架工具Composio |  CrewAI+Composio+Gradio实现MCP AI代理
 
