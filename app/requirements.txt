@@ -1,0 +1,5 @@
+crewai>=0.28.0
+composio_crewai>=0.4.0
+langchain-groq>=0.1.0
+python-dotenv>=1.0.0
+gradio>=4.0.0
