@@ -6,7 +6,7 @@
 
 🎥YouTube视频地址：https://youtu.be/QZVFxYgVdIE
 
-🎬视频内容概览：
+🎬视频内容概览：<br>
 -AI大模型生成式任务设计限制其与外部系统交互能力<br>
 -Anthropic于2024年11月发布的MCP协议旨在标准化大语言模型（LLM）与外部数据源和工具的连接方式<br>
 -MCP架构：MCP 客户端（AI 应用）、MCP 服务器（工具连接器）和 MCP 协议（通信层）<br>
